@@ -1,1 +1,1 @@
- binary_trees
+inary_trees
