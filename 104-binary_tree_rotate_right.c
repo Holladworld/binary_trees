@@ -30,5 +30,5 @@ binary_tree_t *binary_tree_rotate_right(binary_tree_t *tree)
 			tmp->right = pivot;
 	}
 
-	return (pivot)
+	return (pivot);
 }
