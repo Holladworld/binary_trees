@@ -1,5 +1,4 @@
-# C - Binary_trees
-
+# C - Binary Trees
 
 ## Authors
 <details>
